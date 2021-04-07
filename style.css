@@ -1,0 +1,4 @@
+body { font-family: 'Special Elite', cursive; background: #000000; }
+ .header_div { background: white; color: #ce2700; } 
+ .header_div img { width: 100px } 
+ .main_div { background:#ffd2c7; padding: 10px; margin-top: 15px; border: 3px solid white; }
